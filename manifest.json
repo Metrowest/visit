@@ -25,7 +25,7 @@
       "purpose": "monochrome"
     },
     {
-      "src": "public/assets/icons/maskable_icon_x192.png",
+      "src": "/assets/icons/maskable_icon_x192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "maskable"
@@ -71,16 +71,6 @@
     {
       "src": "asspublic/assetsets/screenshots/s4.webp",
       "sizes": "480x800",
-      "type": "image/webp"
-    },
-    {
-      "src": "assets/screenshots/s5.webp",
-      "sizes": "480x800",
-      "type": "image/webp"
-    },
-    {
-      "src": "public/assets/screenshots/s6.webp",
-      "sizes": "750x1334",
       "type": "image/webp"
     }
   ],
