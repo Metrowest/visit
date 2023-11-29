@@ -25,7 +25,7 @@
       "purpose": "monochrome"
     },
     {
-      "src": "aspublic/assetssets/icons/maskable_icon_x192.png",
+      "src": "public/assets/icons/maskable_icon_x192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "maskable"
